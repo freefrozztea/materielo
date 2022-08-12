@@ -1,0 +1,443 @@
+[
+	{
+		"nombreMateria": "FUNDAMENTOS DE INFORMATICA",
+		"cursadaAprobada": true,
+		"finalPrevio": false,
+		"id": "3.4.069",
+		"statusFinal": "finalizada",
+		"correlativaAnterior": [],
+		"correlativaPosterior": ["3.4.071"]
+	},
+	{
+		"nombreMateria": "SISTEMAS DE INFORMACIÓN I",
+		"cursadaAprobada": true,
+		"finalPrevio": true,
+		"id": "3.4.164",
+		"statusFinal": "pendiente",
+		"correlativaAnterior": [],
+		"correlativaPosterior": ["3.4.207"]
+	},
+	{
+		"nombreMateria": "PENSAMIENTO CRIT. Y COMUNICACION",
+		"cursadaAprobada": true,
+		"finalPrevio": false,
+		"id": "2.1.002",
+		"statusFinal": "pendiente",
+		"correlativaAnterior": [],
+		"correlativaPosterior": []
+	},
+	{
+		"nombreMateria": "TEORIA DE SISTEMAS",
+		"cursadaAprobada": false,
+		"finalPrevio": false,
+		"id": "3.4.043",
+		"statusFinal": "pendiente",
+		"correlativaAnterior": [],
+		"correlativaPosterior": []
+	},
+	{
+		"nombreMateria": "ELEMENTOS DE ÁLGEBRA Y GEOMETRÍA",
+		"cursadaAprobada": true,
+		"finalPrevio": false,
+		"id": "3.1.050",
+		"statusFinal": "pendiente",
+		"correlativaAnterior": [],
+		"correlativaPosterior": []
+	},
+	{
+		"nombreMateria": "PROGRAMACION I",
+		"cursadaAprobada": true,
+		"finalPrevio": true,
+		"id": "3.4.071",
+		"statusFinal": "pendiente",
+		"correlativaAnterior": ["3.4.069"],
+		"correlativaPosterior": ["3.4.074", "3.4.208"]
+	},
+	{
+		"nombreMateria": "SISTEMAS DE REPRESENTACIÓN",
+		"cursadaAprobada": true,
+		"finalPrevio": false,
+		"id": "3.3.121",
+		"statusFinal": "pendiente",
+		"correlativaAnterior": [],
+		"correlativaPosterior": []
+	},
+	{
+		"nombreMateria": "FUNDAMENTOS DE QUÍMICA",
+		"cursadaAprobada": true,
+		"finalPrevio": false,
+		"id": "3.2.178",
+		"statusFinal": "pendiente",
+		"correlativaAnterior": [],
+		"correlativaPosterior": []
+	},
+	{
+		"nombreMateria": "ARQUITECTURA DE COMPUTADORES",
+		"cursadaAprobada": true,
+		"finalPrevio": false,
+		"id": "3.4.072",
+		"statusFinal": "pendiente",
+		"correlativaAnterior": [],
+		"correlativaPosterior": []
+	},
+	{
+		"nombreMateria": "MATEMÁTICA DISCRETA",
+		"cursadaAprobada": true,
+		"finalPrevio": false,
+		"id": "3.1.024",
+		"statusFinal": "pendiente",
+		"correlativaAnterior": [],
+		"correlativaPosterior": ["3.4.209", "3.4.215"]
+	},
+	{
+		"nombreMateria": "ÁLGEBRA",
+		"cursadaAprobada": true,
+		"finalPrevio": false,
+		"id": "3.1.051",
+		"statusFinal": "pendiente",
+		"correlativaAnterior": [],
+		"correlativaPosterior": []
+	},
+	{
+		"nombreMateria": "PROGRAMACION II",
+		"cursadaAprobada": false,
+		"finalPrevio": false,
+		"id": "3.4.074",
+		"statusFinal": "pendiente",
+		"correlativaAnterior": ["3.4.071"],
+		"correlativaPosterior": ["3.4.077", "3.4.211"]
+	},
+	{
+		"nombreMateria": "SISTEMAS DE INFORMACIÓN II",
+		"cursadaAprobada": false,
+		"finalPrevio": false,
+		"id": "3.4.207",
+		"statusFinal": "pendiente",
+		"correlativaAnterior": ["3.4.164"],
+		"correlativaPosterior": ["3.4.089", "3.4.094", "3.4.211", "3.4.214"]
+	},
+	{
+		"nombreMateria": "SISTEMAS OPERATIVOS",
+		"cursadaAprobada": false,
+		"finalPrevio": false,
+		"id": "3.4.075",
+		"statusFinal": "pendiente",
+		"correlativaAnterior": [],
+		"correlativaPosterior": []
+	},
+	{
+		"nombreMateria": "FÍSICA I",
+		"cursadaAprobada": true,
+		"finalPrevio": false,
+		"id": "3.1.052",
+		"statusFinal": "pendiente",
+		"correlativaAnterior": [],
+		"correlativaPosterior": ["3.1.055"]
+	},
+	{
+		"nombreMateria": "CÁLCULO I",
+		"cursadaAprobada": true,
+		"finalPrevio": false,
+		"id": "3.1.053",
+		"statusFinal": "pendiente",
+		"correlativaAnterior": [],
+		"correlativaPosterior": ["3.1.049", "3.1.054"]
+	},
+	{
+		"nombreMateria": "PROGRAMACION III",
+		"cursadaAprobada": false,
+		"finalPrevio": false,
+		"id": "3.4.077",
+		"statusFinal": "pendiente",
+		"correlativaAnterior": ["3.4.074"],
+		"correlativaPosterior": ["3.4.215"]
+	},
+	{
+		"nombreMateria": "PARADIGMA ORIENTADO A OBJETOS",
+		"cursadaAprobada": false,
+		"finalPrevio": false,
+		"id": "3.4.208",
+		"statusFinal": "pendiente",
+		"correlativaAnterior": ["3.4.071"],
+		"correlativaPosterior": ["3.4.082", "3.4.210"]
+	},
+	{
+		"nombreMateria": "FUNDAMENTOS DE TELECOMUNICACIONES",
+		"cursadaAprobada": true,
+		"finalPrevio": true,
+		"id": "3.4.078",
+		"statusFinal": "pendiente",
+		"correlativaAnterior": [],
+		"correlativaPosterior": ["3.4.212"]
+	},
+	{
+		"nombreMateria": "INGENIERÍA DE DATOS I",
+		"cursadaAprobada": true,
+		"finalPrevio": true,
+		"id": "3.4.209",
+		"statusFinal": "pendiente",
+		"correlativaAnterior": ["3.1.024"],
+		"correlativaPosterior": ["3.4.211", "3.4.213"]
+	},
+	{
+		"nombreMateria": "CÁLCULO II",
+		"cursadaAprobada": true,
+		"finalPrevio": false,
+		"id": "3.1.054",
+		"statusFinal": "pendiente",
+		"correlativaAnterior": ["3.1.053"],
+		"correlativaPosterior": ["3.1.025"]
+	},
+	{
+		"nombreMateria": "PROCESO DE DESARROLLO DE SOFTWARE",
+		"cursadaAprobada": false,
+		"finalPrevio": false,
+		"id": "3.4.210",
+		"statusFinal": "pendiente",
+		"correlativaAnterior": ["3.4.208"],
+		"correlativaPosterior": ["3.4.216", "3.4.218"]
+	},
+	{
+		"nombreMateria": "SEMINARIO DE INTEGRACIÓN PROFESIONAL ",
+		"cursadaAprobada": false,
+		"finalPrevio": false,
+		"id": "3.4.211",
+		"statusFinal": "pendiente",
+		"correlativaAnterior": ["3.4.074", "3.4.207", "3.4.209"],
+		"correlativaPosterior": []
+	},
+	{
+		"nombreMateria": "TELEINFORMÁTICA Y REDES",
+		"cursadaAprobada": false,
+		"finalPrevio": false,
+		"id": "3.4.212",
+		"statusFinal": "pendiente",
+		"correlativaAnterior": ["3.4.078"],
+		"correlativaPosterior": ["3.4.092"]
+	},
+	{
+		"nombreMateria": "INGENIERÍA DE DATOS II",
+		"cursadaAprobada": false,
+		"finalPrevio": false,
+		"id": "3.4.213",
+		"statusFinal": "pendiente",
+		"correlativaAnterior": ["3.4.209"],
+		"correlativaPosterior": ["3.4.217"]
+	},
+	{
+		"nombreMateria": "PROBABILIDAD Y ESTADÍSTICA",
+		"cursadaAprobada": true,
+		"finalPrevio": false,
+		"id": "3.1.049",
+		"statusFinal": "pendiente",
+		"correlativaAnterior": ["3.1.053"],
+		"correlativaPosterior": ["3.1.056", "3.4.086", "3.4.217"]
+	},
+	{
+		"nombreMateria": "EXAMEN DE INGLÉS",
+		"cursadaAprobada": false,
+		"finalPrevio": false,
+		"id": "2.4.216",
+		"statusFinal": "pendiente",
+		"correlativaAnterior": [],
+		"correlativaPosterior": []
+	},
+	{
+		"nombreMateria": "APLICACIONES INTERACTIVAS",
+		"cursadaAprobada": false,
+		"finalPrevio": false,
+		"id": "3.4.082",
+		"statusFinal": "pendiente",
+		"correlativaAnterior": ["3.4.208"],
+		"correlativaPosterior": ["3.4.218"]
+	},
+	{
+		"nombreMateria": "INGENIERÍA DE SOFTWARE",
+		"cursadaAprobada": false,
+		"finalPrevio": false,
+		"id": "3.4.214",
+		"statusFinal": "pendiente",
+		"correlativaAnterior": ["3.4.207"],
+		"correlativaPosterior": ["3.4.098"]
+	},
+	{
+		"nombreMateria": "FÍSICA II",
+		"cursadaAprobada": false,
+		"finalPrevio": false,
+		"id": "3.1.055",
+		"statusFinal": "pendiente",
+		"correlativaAnterior": ["3.1.052"],
+		"correlativaPosterior": []
+	},
+	{
+		"nombreMateria": "TEORÍA DE LA COMPUTACIÓN",
+		"cursadaAprobada": false,
+		"finalPrevio": false,
+		"id": "3.4.215",
+		"statusFinal": "pendiente",
+		"correlativaAnterior": ["3.1.024", "3.4.077"],
+		"correlativaPosterior": []
+	},
+	{
+		"nombreMateria": "ESTADÍSTICA AVANZADA",
+		"cursadaAprobada": false,
+		"finalPrevio": false,
+		"id": "3.1.056",
+		"statusFinal": "pendiente",
+		"correlativaAnterior": ["3.4.049"],
+		"correlativaPosterior": ["3.1.096"]
+	},
+	{
+		"nombreMateria": "DESARROLLO DE APLICACIONES I",
+		"cursadaAprobada": false,
+		"finalPrevio": false,
+		"id": "3.4.216",
+		"statusFinal": "pendiente",
+		"correlativaAnterior": ["3.4.210"],
+		"correlativaPosterior": []
+	},
+	{
+		"nombreMateria": "DIRECCION DE PROY. INFORMÁTICOS",
+		"cursadaAprobada": false,
+		"finalPrevio": false,
+		"id": "3.4.089",
+		"statusFinal": "pendiente",
+		"correlativaAnterior": ["3.4.207"],
+		"correlativaPosterior": []
+	},
+	{
+		"nombreMateria": "CIENCIA DE DATOS",
+		"cursadaAprobada": false,
+		"finalPrevio": false,
+		"id": "3.4.217",
+		"statusFinal": "pendiente",
+		"correlativaAnterior": ["3.1.049", "3.4.213"],
+		"correlativaPosterior": []
+	},
+	{
+		"nombreMateria": "SEGURIDAD E INTEGRIDAD DE LA INFORMACIÓN",
+		"cursadaAprobada": false,
+		"finalPrevio": false,
+		"id": "3.4.092",
+		"statusFinal": "pendiente",
+		"correlativaAnterior": ["3.4.212"],
+		"correlativaPosterior": []
+	},
+	{
+		"nombreMateria": "MODELADO Y SIMULACIÓN",
+		"cursadaAprobada": false,
+		"finalPrevio": false,
+		"id": "3.1.025",
+		"statusFinal": "pendiente",
+		"correlativaAnterior": ["3.1.054"],
+		"correlativaPosterior": []
+	},
+	{
+		"nombreMateria": "DESARROLLO DE APLICACIONES II",
+		"cursadaAprobada": false,
+		"finalPrevio": false,
+		"id": "3.4.218",
+		"statusFinal": "pendiente",
+		"correlativaAnterior": ["3.4.082", "3.4.210"],
+		"correlativaPosterior": []
+	},
+	{
+		"nombreMateria": "EVALUACIÓN DE PROYECTOS INFORMÁTICOS",
+		"cursadaAprobada": false,
+		"finalPrevio": false,
+		"id": "3.4.086",
+		"statusFinal": "pendiente",
+		"correlativaAnterior": ["3.1.049"],
+		"correlativaPosterior": []
+	},
+	{
+		"nombreMateria": "INTELIGENCIA ARTIFICIAL",
+		"cursadaAprobada": false,
+		"finalPrevio": false,
+		"id": "3.4.096",
+		"statusFinal": "pendiente",
+		"correlativaAnterior": ["3.1.056"],
+		"correlativaPosterior": []
+	},
+	{
+		"nombreMateria": "TECNOLOGÍA Y MEDIO AMBIENTE",
+		"cursadaAprobada": false,
+		"finalPrevio": false,
+		"id": "3.4.219",
+		"statusFinal": "pendiente",
+		"correlativaAnterior": [],
+		"correlativaPosterior": []
+	},
+	{
+		"nombreMateria": "PRÁCTICA PROFESIONAL SUPERVISADA",
+		"cursadaAprobada": false,
+		"finalPrevio": false,
+		"id": "PPS06",
+		"statusFinal": "pendiente",
+		"correlativaAnterior": [],
+		"correlativaPosterior": []
+	},
+	{
+		"nombreMateria": "ARQUITECTURA DE APLICACIONES",
+		"cursadaAprobada": false,
+		"finalPrevio": false,
+		"id": "3.4.094",
+		"statusFinal": "pendiente",
+		"correlativaAnterior": ["3.4.207"],
+		"correlativaPosterior": []
+	},
+	{
+		"nombreMateria": "TENDENCIAS TECNOLÓGICAS",
+		"cursadaAprobada": false,
+		"finalPrevio": false,
+		"id": "3.4.220",
+		"statusFinal": "pendiente",
+		"correlativaAnterior": [],
+		"correlativaPosterior": []
+	},
+	{
+		"nombreMateria": "PROYECTO FINAL INGENIERÍA INFORMÁTICA",
+		"cursadaAprobada": false,
+		"finalPrevio": false,
+		"id": "3.4.100",
+		"statusFinal": "pendiente",
+		"correlativaAnterior": [],
+		"correlativaPosterior": []
+	},
+	{
+		"nombreMateria": "CALIDAD DE SOFTWARE",
+		"cursadaAprobada": false,
+		"finalPrevio": false,
+		"id": "3.4.098",
+		"statusFinal": "pendiente",
+		"correlativaAnterior": ["3.4.214"],
+		"correlativaPosterior": []
+	},
+	{
+		"nombreMateria": "NEGOCIOS TECNOLÓGICOS",
+		"cursadaAprobada": false,
+		"finalPrevio": false,
+		"id": "3.4.221",
+		"statusFinal": "pendiente",
+		"correlativaAnterior": [],
+		"correlativaPosterior": []
+	},
+	{
+		"nombreMateria": "TECNOLOGÍA E INNOVACIÓN",
+		"cursadaAprobada": false,
+		"finalPrevio": false,
+		"id": "3.4.135",
+		"statusFinal": "pendiente",
+		"correlativaAnterior": [],
+		"correlativaPosterior": []
+	},
+	{
+		"nombreMateria": "DERECHO INFORMATICO",
+		"cursadaAprobada": false,
+		"finalPrevio": false,
+		"id": "2.3.056",
+		"statusFinal": "pendiente",
+		"correlativaAnterior": [],
+		"correlativaPosterior": []
+	}
+]
